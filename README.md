@@ -10,10 +10,10 @@
         飞龙：负责人名称
         wizardforcel：负责人 Github 用户名
         562826179：负责人 QQ
-        apachecn-blockchain-pt2-zh：ApacheCN 的 Github 仓库名称
-        apachecn-blockchain-pt2-zh：DockerHub 仓库名称
-        apachecn-blockchain-pt2-zh：PYPI 包名称
-        apachecn-blockchain-pt2-zh：NPM 包名称
+        flygon-blockchain-pt2-zh：ApacheCN 的 Github 仓库名称
+        flygon-blockchain-pt2-zh：DockerHub 仓库名称
+        flygon-blockchain-pt2-zh：PYPI 包名称
+        flygon-blockchain-pt2-zh：NPM 包名称
     
     CNAME
     
@@ -23,11 +23,11 @@
     
         ApacheCN 区块链译文集（二）：文档中文名
         #333：显示颜色
-        apachecn-blockchain-pt2-zh：ApacheCN 的 Github 仓库名称
+        flygon-blockchain-pt2-zh：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
-        apachecn-blockchain-pt2-zh：ApacheCN 的 Github 仓库名称
+        flygon-blockchain-pt2-zh：ApacheCN 的 Github 仓库名称
 -->
 
 # 飞龙的区块链译文集（二）
@@ -38,22 +38,22 @@
 > 
 > 趁着年轻生猛，我要再和生活死磕几年。要么我就毁灭，要么我就铸就辉煌。如果有一天，你发现我在平庸面前低了头，那么请向我开炮。--《在路上》
 
-* [在线阅读](https://bc2.apachecn.org)
+* [在线阅读](https://bc2.flygon.net)
 ## 下载
 
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-blockchain-pt2-zh
-docker run -tid -p <port>:80 apachecn0/apachecn-blockchain-pt2-zh
+docker pull apachecn0/flygon-blockchain-pt2-zh
+docker run -tid -p <port>:80 apachecn0/flygon-blockchain-pt2-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-blockchain-pt2-zh
-apachecn-blockchain-pt2-zh <port>
+npm install -g flygon-blockchain-pt2-zh
+flygon-blockchain-pt2-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
