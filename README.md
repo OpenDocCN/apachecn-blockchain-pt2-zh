@@ -30,7 +30,7 @@
         apachecn-blockchain-pt2-zh：ApacheCN 的 Github 仓库名称
 -->
 
-# ApacheCN 区块链译文集（二）
+# 飞龙的区块链译文集（二）
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
